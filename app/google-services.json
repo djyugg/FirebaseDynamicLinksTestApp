@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "473226586645",
+    "firebase_url": "https://fir-invites-test-app.firebaseio.com",
+    "project_id": "fir-invites-test-app",
+    "storage_bucket": "fir-invites-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473226586645:android:f45c20f4a77799ab",
+        "android_client_info": {
+          "package_name": "me.djyugg.firebasedynamiclinkstestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473226586645-sqpp7tg78uvqbrnletvpiaasm8rgpidl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiJdbm3NahsXYviplEAVWyvTjHImU6rXo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
